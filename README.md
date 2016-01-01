@@ -1,5 +1,6 @@
 # Introduction to the NodeJS ecosystem
 *[Jonas Weber](https://github.com/a_jaguar), [Dominik Schreiber](https://github.com/dominikschreiber)*
+
 January 2016
 
 This is an interactive script to accompany the NodeJS introductionary workshop at the *Programmierwochende '16*. It assumes basic knowledge of programming concepts and the usage of git, but gives a brief intro in mentioned concepts when they occur.
@@ -28,3 +29,20 @@ In order to follow the exercises, we ask the reader to install
 
 - *git* &ndash; either bare-bones from [git-scm.com](http://git-scm.com/) or packaged into the [GitHub Desktop Client](https://desktop.github.com/)
 - [*NodeJS*](https://nodejs.org) &ndash; this contains [npm](https://npmjs.org) as well.
+
+## Now start
+
+To start reading, please
+
+- *clone this repository* to your local machine
+
+  ```bash
+  git clone git@github.com:gjwsw/nodejs-intro-script.git
+  cd nodejs-intro-script
+  ```
+
+- *switch to the first chapter*
+
+  ```bash
+  git checkout chapter-1
+  ```
